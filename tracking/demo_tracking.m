@@ -7,8 +7,8 @@
 
 clear;
 
-% conf = genConfig('otb','Diving');
-conf = genConfig('vot2015','ball1');
+conf = genConfig('otb','Diving');
+% conf = genConfig('vot2015','ball1');
 
 switch(conf.dataset)
     case 'otb'
