@@ -1,0 +1,12 @@
+*~
+dataset_link
+dataset/download_datasets.m
+dataset/OTB/seq_list.txt
+
+models/data_vot-otb/*
+models/data_otb-vot14/*
+models/data_otb-vot15/*
+models/mdnet_init.mat
+models/mdnet_vot-otb_new.mat
+models/mdnet_otb-vot14_new.mat
+models/mdnet_otb-vot15_new.mat
