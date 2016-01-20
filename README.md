@@ -2,15 +2,16 @@
 
 Created by [Hyeonseob Nam](http://cvlab.postech.ac.kr/~hyeonseob/) and [Bohyung Han](http://cvlab.postech.ac.kr/~bhhan/) at POSTECH
 
-Acknowledgements: This software is implemented using [MatConvNet](http://www.vlfeat.org/matconvnet/) and part of [R-CNN](https://github.com/rbgirshick/rcnn).
+Project Webpage: http://cvlab.postech.ac.kr/research/mdnet/
 
+Acknowledgements: This software is implemented using [MatConvNet](http://www.vlfeat.org/matconvnet/) and part of [R-CNN](https://github.com/rbgirshick/rcnn).
 
 ### Introduction
 
 MDNet is the state-of-the-art visual tracker based on a CNN trained on a large set of tracking sequences,
 and the winner tracker of [The VOT2015 Challenge](http://www.votchallenge.net/vot2015/).
 
-More information about the system is provided by our [arXiv technical report](http://arxiv.org/abs/1510.07945) and [project webpage](http://cvlab.postech.ac.kr/research/mdnet/).
+Detailed description about the system is provided by our [arXiv technical report](http://arxiv.org/abs/1510.07945).
 
 
 ### Citation
