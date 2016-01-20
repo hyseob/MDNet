@@ -10,7 +10,7 @@ Acknowledgements: This software is implemented using [MatConvNet](http://www.vlf
 MDNet is the state-of-the-art visual tracker based on a CNN trained on a large set of tracking sequences,
 and the winner tracker of [The VOT2015 Challenge](http://www.votchallenge.net/vot2015/).
 
-Detailed description of the system is provided by our [arXiv technical report](http://arxiv.org/abs/1510.07945).
+More information about the system is provided by our [arXiv technical report](http://arxiv.org/abs/1510.07945) and the [project webpage](http://cvlab.postech.ac.kr/research/mdnet/).
 
 
 ### Citation
