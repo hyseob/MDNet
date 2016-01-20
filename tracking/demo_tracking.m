@@ -7,7 +7,7 @@
 
 clear;
 
-conf = genConfig('otb','Bolt2');
+conf = genConfig('otb','Diving');
 % conf = genConfig('vot2015','ball1');
 
 switch(conf.dataset)
