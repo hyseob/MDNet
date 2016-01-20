@@ -77,4 +77,4 @@ You may need OTB and VOT datasets for learning MDNet models. You can also use ot
 **Demo**
   0. Run 'pretraining/demo_pretraining.m'.
 
-The demo trains new MDNet models using OTB or VOT sequences. You will need ~2GB GPU memory for training.
+The demo trains new MDNet models using OTB or VOT sequences.
