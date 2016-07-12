@@ -17,13 +17,13 @@ This software is implemented using [MatConvNet](http://www.vlfeat.org/matconvnet
 
 If you're using this code in a publication, please cite our paper.
 
-	@article{nam2015mdnet,
-      title={Learning Multi-Domain Convolutional Neural Networks for Visual Tracking},
-      author={Hyeonseob Nam and Bohyung Han},
-      journal={CoRR},
-      volume={abs/1510.07945},
-      year={2015},
-    }
+	@InProceedings{nam2016mdnet,
+	author = {Nam, Hyeonseob and Han, Bohyung},
+	title = {Learning Multi-Domain Convolutional Neural Networks for Visual Tracking},
+	booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+	month = {June},
+	year = {2016}
+	}
 
 
 ### License
