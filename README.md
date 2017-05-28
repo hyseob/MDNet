@@ -6,7 +6,7 @@ Project Webpage: http://cvlab.postech.ac.kr/research/mdnet/
 
 
 ### News
-**Python implementation of MDNet is avaliable! [[MDNet_pytorch]](https://github.com/HyeonseobNam/MDNet_pytorch)**
+**Python implementation of MDNet is avaliable! [[py-MDNet]](https://github.com/HyeonseobNam/py-MDNet)**
 
 
 
