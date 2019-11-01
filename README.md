@@ -1,6 +1,6 @@
 ## MDNet: Multi-Domain Convolutional Neural Network Tracker
 
-Created by [Hyeonseob Nam](https://kr.linkedin.com/in/hyeonseob-nam/) and [Bohyung Han](http://cvlab.postech.ac.kr/~bhhan/) at POSTECH
+Created by [Hyeonseob Nam](https://hyeonseobnam.github.io/) and [Bohyung Han](http://cvlab.postech.ac.kr/~bhhan/) at POSTECH
 
 Project Webpage: http://cvlab.postech.ac.kr/research/mdnet/
 
